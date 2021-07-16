@@ -1,0 +1,25 @@
+{
+  "name": "ras-bot",
+  "version": "0.0.1",
+  "main": "Ras-BOT.js",
+  "scripts": {
+    "test": "node rasBOT.js"
+  },
+  "author": "rasBOT",
+  "license": "ISC",
+  "dependencies": {
+    "discord-ytdl-core": "^5.0.3",
+    "discord.js": "^12.5.3",
+    "discordjs-ytdl": "^2.2.0",
+    "ffmpeg-static": "^4.3.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "opusscript": "0.0.8",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "ytdl-core": "^4.8.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
